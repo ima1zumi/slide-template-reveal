@@ -5,6 +5,7 @@
 .reveal h5,
 .reveal h6 {
 	text-transform: none;
+  font-family: 'ヒラギノ丸ゴ ProN';
 }
 
 .reveal pre code {
@@ -12,6 +13,9 @@
     white-space: pre-wrap;
 }
 
+.reveal {
+  font-family: 'ヒラギノ丸ゴ ProN';
+  }
 
 .line { display: block; }
 .line.hover { background: yellow; }
